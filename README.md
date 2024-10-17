@@ -14,6 +14,7 @@ Hi,Abhinav Bansal this side.A self taught software engineer,web developer and cy
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=@Abhinav-Bansal751&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinav-Bansal751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
