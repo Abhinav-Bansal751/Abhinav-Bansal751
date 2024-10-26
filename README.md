@@ -16,6 +16,17 @@ Hi,Abhinav Bansal this side.A self taught software engineer,web developer and cy
 ![](https://github-profile-trophy.vercel.app/?username=@Abhinav-Bansal751&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinav-Bansal751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
