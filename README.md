@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,Abhinav Bansal this side.A self taught software engineer,web developer and cybersecruity reseracher
+Hi,Abhinav Bansal this side.A self taught software engineer,web developer and cybersecruity reseracher.Check out Socials to know more
 
 
 ## 🌐 Socials:
