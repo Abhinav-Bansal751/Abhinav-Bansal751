@@ -40,6 +40,7 @@ Hi,Abhinav Bansal this side.A self taught software engineer,web developer and cy
 [![An image of @abhinavbansal751's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavbansal751)](https://holopin.io/@abhinavbansal751)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhinav-Bansal751&icon=0&color=0)](https://visitcount.itsvg.in)
+### VisitorCount
+ ![VisitorCount](https://profile-counter.glitch.me/{Abhinav-Bansal751}/count.svg)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
